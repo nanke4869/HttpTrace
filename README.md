@@ -12,7 +12,7 @@
 • 使用http方法
 
 ## 客户端部分
-[客户端代码](https://github.com/nanke4869/AndroidSmoothMove）
+[客户端代码](https://github.com/nanke4869/AndroidSmoothMove)
 
 
 • avtivity_point.xml文件设有两个按钮
